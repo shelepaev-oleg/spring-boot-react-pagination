@@ -1,0 +1,60 @@
+**/target
+**/.idea
+*.iml
+settings.xml
+.project 
+**/.classpath 
+**/bin 
+bin 
+bin/* 
+**/test-output
+**/.settings
+.classpath
+.project
+.externalToolBuilders
+maven-eclipse.xml
+.tern-project
+.pydevproject
+**/gradle-local.properties
+~*
+node_modules
+**/out
+out
+out/*
+**/build
+**/.gradle
+
+### IntellijIdea ###
+*.iml
+.idea
+out
+
+### npm ###
+node_modules/
+**/node_modules/
+**/npm-app.jar
+
+### Dojo ###
+**/dijit
+**/dojo
+**/dojox
+
+### ReactJS ###
+**/package-lock.json
+.package-lock.json
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Gradle ###
+.gradle
+build/
